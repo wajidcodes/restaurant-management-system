@@ -1,0 +1,2 @@
+Table 1,Burger,Medium,Cheese,Rs. 850
+Table 2,Pizza,Large,Extra Toppings,Rs. 1500

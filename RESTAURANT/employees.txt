@@ -1,0 +1,4 @@
+Name: Ali, Role: Guard, Age: 20, Hours: 4, Salary: 20000, E-mail: Wxample@gmail.com, Address: Madina Town
+Name: Umer, Role: Swipper, Age: 22, Hours: 5, Salary: 20000, E-mail: Ejs@gmail.com22, Address: Madina Town
+Name: Umer, Role: Swipper, Age: 22, Hours: 5, Salary: 20000, E-mail: Ejs@gmail.com22, Address: Madina Town
+Name: Wajid Ali, Role: Chief, Age: 20, Hours: 15, Salary: 500000, E-mail: abc@xyz.com, Address: FSD
