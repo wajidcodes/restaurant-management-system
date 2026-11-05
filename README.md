@@ -36,6 +36,22 @@ RESTAURANT/
 └── pom.xml                     # Maven configuration
 ```
 
+## ▶️ How to Run
+
+### Prerequisites
+
+- JDK 21
+- Apache Maven 3.9 or later
+
+### Run the app
+
+```bash
+cd RESTAURANT
+mvn javafx:run
+```
+
+The app starts with the login screen. Data is stored in a local SQLite database, so no database server or extra setup is needed.
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
