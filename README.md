@@ -36,6 +36,16 @@ RESTAURANT/
 └── pom.xml                     # Maven configuration
 ```
 
+## 📊 Diagrams
+
+Design diagrams from `Diagrams/`:
+
+![Class Diagram](Diagrams/Class%20Diagram.png)
+
+![Entity Relationship Diagram](Diagrams/ERD.png)
+
+![Order Processing Flowchart](Diagrams/Order%20Processing%20Flowchart.png)
+
 ## ▶️ How to Run
 
 ### Prerequisites
