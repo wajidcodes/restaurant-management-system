@@ -28,10 +28,11 @@ The Restaurant Management System is a modular application focusing on role-based
 RESTAURANT/
 ├── src/main/java/com/mycompany/restaurant/
 │   ├── RestaurantApp.java      # Application entry point
-│   ├── controllers/            # UI event handlers
-│   ├── services/               # Business logic (OrderService, MenuService, etc.)
+│   ├── Icon/                   # Image assets (login.jpg)
 │   ├── models/                 # Data entities (Order, MenuItem, etc.)
-│   └── utils/                  # Utility classes (DatabaseHelper, SceneManager)
+│   ├── services/               # Business logic (OrderService, MenuService, etc.)
+│   ├── utils/                  # Utility classes (DatabaseHelper, SceneManager)
+│   └── views/                  # UI view classes
 ├── src/main/resources/         # FXML files, CSS, and assets
 └── pom.xml                     # Maven configuration
 ```
