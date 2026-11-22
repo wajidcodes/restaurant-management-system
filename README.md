@@ -33,7 +33,7 @@ RESTAURANT/
 │   ├── services/               # Business logic (OrderService, MenuService, etc.)
 │   ├── utils/                  # Utility classes (DatabaseHelper, SceneManager)
 │   └── views/                  # UI view classes
-├── src/main/resources/         # FXML files, CSS, and assets
+├── src/main/resources/         # Images and CSS only (no FXML files; UI is built in code)
 └── pom.xml                     # Maven configuration
 ```
 
