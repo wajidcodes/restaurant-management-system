@@ -16,7 +16,7 @@ Before you begin, ensure you have the following installed:
 Open your terminal and clone the project:
 ```bash
 git clone https://github.com/wajidcodes/restaurant-management-system.git
-cd Restaurant Management System
+cd restaurant-management-system
 ```
 
 ### 2. Configure the Environment
@@ -25,12 +25,14 @@ Ensure your `JAVA_HOME` environment variable is set to your JDK 21 installation 
 ### 3. Build the Project
 Use Maven to clean and install the required dependencies:
 ```bash
+cd RESTAURANT
 mvn clean install
 ```
 
 ### 4. Run the Application
 You can run the application directly using the JavaFX Maven plugin:
 ```bash
+cd RESTAURANT
 mvn javafx:run
 ```
 
