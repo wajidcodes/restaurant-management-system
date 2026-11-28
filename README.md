@@ -63,6 +63,14 @@ mvn javafx:run
 
 The app starts with the login screen. Data is stored in a local SQLite database, so no database server or extra setup is needed.
 
+### Login
+
+The login screen offers three roles:
+
+- **Restaurant Owner**: Opens the owner dashboard (admin access and reports). It asks for the owner password. The default owner password is `Apple`, as defined by `ownerPassword` in `RESTAURANT/src/main/java/com/mycompany/restaurant/RestaurantApp.java`. Change it before real use.
+- **Front Desk**: Opens reservations and reception. No password is needed.
+- **Service Staff**: Opens orders and tables. No password is needed.
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
